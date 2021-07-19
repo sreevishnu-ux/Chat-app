@@ -7,7 +7,7 @@ This is a real time chat-app made using HTML/CSS and Javascript.
 
 # Frameworks used
 - Bootstrap
-- Firbease
+- Firebase (firestore)
 
 # Further Developments
 The app is a simple demonstration of my javascript learnings and there are many features to be added, which i will be doing shortly.
