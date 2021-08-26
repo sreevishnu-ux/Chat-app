@@ -11,3 +11,7 @@ This is a real time chat-app made using HTML/CSS and Javascript.
 
 # Further Developments
 The app is a simple demonstration of my javascript learnings and there are many features to be added, which i will be doing shortly.
+
+# Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
